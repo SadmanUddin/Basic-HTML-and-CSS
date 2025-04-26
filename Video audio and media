@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <video src="Madrid (1987) - FULL MOVIE" height="455" autoplay controls></video>
+    <audio src=""></audio>
+    <svg height = "100" width="100">
+        <circle cx="50" cy="50" r="40" stroke-width="3" fill="red" />
+      </svg>
+      <img src="img.svg" alt="my svg">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/980SJ8KQFY4?si=six1Jsb52nr7s6FJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+</html>
