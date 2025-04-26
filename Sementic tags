@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>home</li>
+                <li>about</li>
+                <li>content</li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+
+    </main>
+            <h1>what are semectic tags</h1>
+    <footer>
+        copyright reserved , all rights reserved.
+    </footer>
+    <!-- <img src="sementic tags.png" height="455" width="555" alt=""> -->
+</body>
+</html>
