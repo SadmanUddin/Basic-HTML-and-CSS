@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="this page give description about sadman uddin">
+    <title>sadman uddin</title>
+</head>
+
+<body>
+    <h1>sadman biography</h1>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas magni blanditiis incidunt minus. Ullam atque nisi
+        mollitia sequi tenetur porro tempore amet autem soluta culpa et molestias vitae, obcaecati iste laboriosam ea
+        sed commodi.</p>
+        // use any lorem digit and vs code will do the rest
+</body>
+
+</html>
